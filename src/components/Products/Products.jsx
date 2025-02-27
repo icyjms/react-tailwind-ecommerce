@@ -36,7 +36,7 @@ const ProductsData = [
   {
     id: 5,
     img: 'https://jamescabauatan-demo-users-image.s3.ap-southeast-2.amazonaws.com/e-shop/women/women2.jpg',
-    title: 'Fashin T-Shirt',
+    title: 'Fashion T-Shirt',
     rating: 4.5,
     color: 'Pink',
     aosDelay: '800',
