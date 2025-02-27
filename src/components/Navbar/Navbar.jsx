@@ -112,7 +112,7 @@ const Navbar = () => {
                 alt="Logo"
                 className="w-10"
               />
-              Shopsy
+              ez-Shop
             </a>
           </div>
           {/* search bar */}
